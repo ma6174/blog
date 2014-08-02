@@ -1,7 +1,7 @@
 blog
 ====
 
-[https://github.com/ma6174/blog/issues?q=is:open+is:issue](https://github.com/ma6174/blog/issues?q=is:open+is:issue)
+[http://ma6174.github.io/blog/](http://ma6174.github.io/blog/)
 
 点击右上角的[watch](https://github.com/ma6174/blog/subscription)有惊喜
 
